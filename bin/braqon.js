@@ -71,7 +71,7 @@ const body = [
   '',
   `${bold('Braian Quintian')}  ${dim('·')}  ${accent('@braqon')}`,
   `Founder @ ${bold('BRAQON')} ${dim('·')} CTO @ 88Pay`,
-  dim('open-source POS & developer tools from LATAM'),
+  dim('POS, payments & developer tools from LATAM'),
   '',
   ...LINKS.map(([k, v]) => `${dim(k.padEnd(9))} ${v}`),
   '',
