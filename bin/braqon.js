@@ -62,7 +62,7 @@ const LINKS = [
   ['org', 'https://github.com/braqon-dev'],
   ['npm', 'https://www.npmjs.com/org/braqon'],
   ['x', 'https://x.com/braqondev'],
-  ['linkedin', 'https://linkedin.com/in/braian-quintian'],
+  ['linkedin', 'https://www.linkedin.com/in/bquintian'],
   ['youtube', 'https://youtube.com/@braqon'],
   ['email', 'hola@braqon.dev'],
 ];
