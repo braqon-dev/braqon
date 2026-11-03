@@ -1,14 +1,31 @@
 {
   "name": "braqon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BRAQON's business card for your terminal. Run `npx braqon`.",
-  "bin": { "braqon": "bin/braqon.js" },
-  "files": ["bin"],
-  "engines": { "node": ">=18" },
-  "keywords": ["braqon", "npx", "card", "business-card", "cli"],
+  "bin": {
+    "braqon": "bin/braqon.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "braqon",
+    "npx",
+    "card",
+    "business-card",
+    "cli"
+  ],
   "author": "Braian Alberto Quintian Romero <hola@braqon.dev> (https://braqon.dev)",
   "license": "MIT",
   "homepage": "https://github.com/braqon-dev/braqon#readme",
-  "repository": { "type": "git", "url": "git+https://github.com/braqon-dev/braqon.git" },
-  "bugs": { "url": "https://github.com/braqon-dev/braqon/issues" }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braqon-dev/braqon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/braqon-dev/braqon/issues"
+  }
 }

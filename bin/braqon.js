@@ -70,7 +70,7 @@ const LINKS = [
 const body = [
   '',
   `${bold('Braian Quintian')}  ${dim('·')}  ${accent('@braqon')}`,
-  `building ${bold('BRAQON')} ${dim('·')} CTO @ 88Pay`,
+  `Founder @ ${bold('BRAQON')} ${dim('·')} CTO @ 88Pay`,
   dim('open-source POS & developer tools from LATAM'),
   '',
   ...LINKS.map(([k, v]) => `${dim(k.padEnd(9))} ${v}`),
