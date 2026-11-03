@@ -1,6 +1,6 @@
 {
   "name": "braqon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "BRAQON's business card for your terminal. Run `npx braqon`.",
   "bin": {
     "braqon": "bin/braqon.js"
